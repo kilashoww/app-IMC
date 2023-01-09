@@ -1,5 +1,7 @@
 # app-IMC
 
+Calculez l'indice de masse corporelle ou IMC sur :
+https://kilashoww.github.io/app-IMC
 
-Test your IMC on
+Calculate body mass index or BMI on :
 https://kilashoww.github.io/app-IMC
