@@ -107,3 +107,30 @@ form button:hover {
   font-family: 'raleway', sans-serif;
   font-size: 20px;
 }
+
+@media (max-width: 800px) {
+  .container {
+    max-width: 600px;
+  }
+
+  .input-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .input-group:nth-child(2) {
+    margin-top: 30px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 800px) {
+  .input-group {
+    width: 100%;
+  }
+
+  .input-group input {
+    width: 100%;
+    min-width: auto;
+  }
+}
