@@ -1,6 +1,6 @@
 # Calcul de l'IMC (BMI Calculator)
 
-This is a game from "apprendre à coder" learning course
+This is a game from "Ecole du Web Net" learning course
 
 ## Table of contents
 
