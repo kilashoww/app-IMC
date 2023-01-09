@@ -32,7 +32,7 @@ This is a game from "apprendre à coder" learning course
 - Twitter - [@sanitajc](https://twitter.com/sanitajc)
 
 ## Licence
-From learning course <alt href="https://www.ecole-du-web.net" alt='site Ecole du Web Net'>ECOLE DU WEB .NET</alt> with some mods.
+From learning course https://www.ecole-du-web.net with some mods.
 
 ## Acknowledgments
 
